@@ -2,10 +2,11 @@
     width:100%;
     margin:0 auto;
     text-align:center;
+    background-color: #EEECEA;
 }
 
 .main-title{
-    margin-top:96px;
+    padding-top:96px;
 }
 .main-title span{
     font-size:30px;
@@ -42,5 +43,5 @@
     word-break:keep-all;
 }
 .info-content:last-child{
-    margin-bottom: 140px;
+    padding-bottom: 140px;
 }
