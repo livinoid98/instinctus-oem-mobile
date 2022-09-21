@@ -1,0 +1,43 @@
+.brandstory-wrap{
+    width:100%;
+    margin:0 auto;
+    text-align:center;
+}
+
+.main-title{
+    padding-top:96px;
+}
+.main-title span{
+    font-size:30px;
+    font-weight:700;
+    color:#2C2A25;
+}
+.main-title .middle-line{
+    width:60%;
+    height:2px;
+    background-color:#2C2A25;
+    margin:0 auto;
+    margin-top:22px;
+}
+.main-title h3{
+    font-size:24px;
+    font-weight:600;
+    color:#2C2A25;
+    margin-top:18px;
+}
+
+.mission-info-wrap .mission-title{
+    margin-top:24px;
+}
+.mission-info-wrap .mission-title p:nth-child(1){
+    font-size:14px;
+    font-weight:500;
+    color:#06262D;
+    line-height:150%;
+}
+.mission-info-wrap .mission-title p:nth-child(2){
+    font-size:12px;
+    font-weight:500;
+    color:#A7A7A7;
+    line-height:150%;
+}
